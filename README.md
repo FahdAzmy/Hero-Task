@@ -45,8 +45,7 @@ src/
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone <git@github.com:FahdAzmy/Hero-Task.git>
    ```
 
 2. **Install Dependencies**:
