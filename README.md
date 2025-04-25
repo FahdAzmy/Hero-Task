@@ -1,7 +1,5 @@
 # Vibe Coder Mini Challenge - Hero Section
 
-![Hero Section Preview](../src//assets/hero-tasl.png)
-
 A modern, interactive, and responsive hero section built with React, TypeScript, and Tailwind CSS.
 
 ## Overview
